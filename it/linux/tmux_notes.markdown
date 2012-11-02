@@ -13,7 +13,9 @@
 > list sessions
 
 ##In session:
+
 (C is ctrl )
+
 1. C + b; d
 > hide session
 
