@@ -14,15 +14,11 @@
 
 8. 斐波那契尾递归的写法
 
-	def Fib(a,b,n)
-
-		if n==0
-
-			return b 
-
-		else 
-
-			return Fib(b,a+b,n-1)
+		def Fib(a,b,n)
+			if n==0
+				return b 
+			else 
+				return Fib(b,a+b,n-1)
 
 
 9. 惰性求值：就是延迟求值，在使用延迟求值的时候，表达式不在它被绑定到变量之后就立即求值，而是在該值被取用的时候求值，也就是说，语句如x:=expression;(把一个表达式的结果赋值给一个变量)明显的调用这个表达式被计算并把结果放置到
