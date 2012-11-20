@@ -1,0 +1,59 @@
+long futures position 期货的长寸头,期货买盘
+initial margin        初始保证金,刚开始买衍生品所付的保证金
+marking to market     市场定价
+maintenance margin    维持保证金
+margin call           保证金催付
+variation margin      变动保证金
+day track             短线交易
+spread transaction    差价交易
+clearinghouse         结算中心
+clearing margin       结算保证金
+short futures position 期货的短寸头
+close a position       平仓
+notice of intention to deliver 交割意向通知书
+contract size         合约规模
+mini                  小型
+Mini Nasdaq 100       小型纳斯达克100期货
+limit down            跌停板
+limit up              涨停板
+limit move            涨跌停板变动
+COMEX                 纽约商品交易所
+margin account        保证金账户(margin 边缘)
+clear margin          结算保证金
+gross basis           基于总值
+net basis             基于净值
+collateralization     抵押品
+Long-Ter Capital Management，LTCM 长期资本管理公司
+convergence arbitrage 收敛套利
+flight to quality     择优而栖现象，流通性好的产品价格比流通性差的产品价格与平时相比要高得多
+settlement price      结算价格
+Futures contracts
+Open  | High | Low | Settle | Chg  | Open interest 
+开盘价 高位价 低位价 交割价  变化量 未平仓合约数量(正在交易的合约总数)
+黄金，原油和天然气的交割价随期限增加而增加，被称为正常市场（normal market），降低则是反向市场
+transferable         交割通知如果是可转让的(transferable),长寸头投资方能找到另一个长寸头投资者来接受交割通知
+first notice day     第一交割日
+last trading day     最后交割日
+commission broker    佣金经纪人（执行其他人的指令并收取佣金）
+local                自营经纪人（自己搞的意思）
+market order         市场指令（以最优价购买或出售）
+limit order          限定一个特殊交易价格,比交易价格更优惠时即执行该指令。
+stop order, stop-loss order    达到某个不利的价格时会卖出的指令
+stop-limit order     前两者结合起来
+market-if-touched order，MIT 触及市价指令,也称为宽板指令，价格朝着有利方向变动时，保证损失在一定范围内。
+discretionary order, market-not-held，让经纪人自己做主
+day order            交易日结束时会自动取消的指令
+time-of-day order    一天内某个时间才能被执行的指令
+开放指令(open order) 或一直有效直至成交(good-till-canceled order)成交结束时才被取消
+fill-or-kill order   要求立即执行的指令
+
+总之指令的三个变量：时间，价格，权限。
+
+###制度与机构
+CFCT，Commodity Futures Trading Commission，商品期货交易委员会，（一个美国联邦政府机构，对期货交易进行监督）
+NFA，National Futures Association，美国全国期货协会
+SEC，Securities and Exchange Commission, 证券交易委员会
+FRB，Federal Reserve Board，联邦储备委员会
+U.S. Treasury Department，美国财政部
+corner the market 操纵市场
+front running 偷跑交易（向客户收取过高费用，不向客户完全支付商品或提前交易）
